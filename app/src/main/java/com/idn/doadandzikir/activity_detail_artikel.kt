@@ -36,4 +36,11 @@ class activity_detail_artikel : AppCompatActivity() {
         }
 
     }
+
+    override fun onSupportNavigateUp(): Boolean {
+        onBackPressedDispatcher.onBackPressed()
+        finish()
+        return super.onSupportNavigateUp()
+    }
+
 }

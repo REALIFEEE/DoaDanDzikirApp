@@ -12,6 +12,7 @@ import androidx.core.content.ContextCompat
 import androidx.core.splashscreen.SplashScreen.Companion.installSplashScreen
 import androidx.viewpager2.widget.ViewPager2
 import com.idn.doadandzikir.Model.Artikel
+import com.idn.doadandzikir.UI.HarianDzikirDoaActivity
 import com.idn.doadandzikir.UI.SetiapSaatDzikirActivity
 import com.idn.doadandzikir.UI.qauliyahShalatActivity
 import com.idn.doadandzikir.adapter.ArtikelAdapter
@@ -103,6 +104,11 @@ class MainActivity : AppCompatActivity() {
         var ll_dzikir_setiap_saat : LinearLayout = findViewById<LinearLayout>(R.id.ll_dzikir_setiap_saat)
         ll_dzikir_setiap_saat.setOnClickListener{
             startActivity(Intent(this, SetiapSaatDzikirActivity::class.java))
+        }
+
+        var ll_doa_dzikir_harian : LinearLayout = findViewById(R.id.ll_dzikir_doa_harian)
+        ll_doa_dzikir_harian.setOnClickListener {
+            startActivity(Intent(this,  HarianDzikirDoaActivity::class.java))
         }
 
 //        var ll_dzikir_pagi_petang : LinearLayout = findViewById(R.id.ll_dzikir_pagi_petang)
