@@ -106,13 +106,17 @@ class MainActivity : AppCompatActivity() {
             startActivity(Intent(this, SetiapSaatDzikirActivity::class.java))
         }
 
+        var ll_dzikir_pagi_petang : LinearLayout = findViewById(R.id.ll_dzikir_pagi_petang)
+        ll_dzikir_pagi_petang.setOnClickListener {
+            startActivity(Intent(this,activity_pagi_petang_dzikir::class.java ))
+        }
+
         var ll_doa_dzikir_harian : LinearLayout = findViewById(R.id.ll_dzikir_doa_harian)
         ll_doa_dzikir_harian.setOnClickListener {
             startActivity(Intent(this,  HarianDzikirDoaActivity::class.java))
         }
 
-//        var ll_dzikir_pagi_petang : LinearLayout = findViewById(R.id.ll_dzikir_pagi_petang)
-//        ll_dzikir_pagi_petang.setOnClickListener { startActivity(Intent(this,PagiPetang )) }
+
 
         vpArtikel = findViewById(R.id.vp_artikel)
        val mAdapter = ArtikelAdapter()

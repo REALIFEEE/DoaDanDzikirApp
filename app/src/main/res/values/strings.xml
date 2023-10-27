@@ -21,35 +21,237 @@
 
     <string-array name="arr_img_artikel">
         <item>@drawable/artikel_1</item>
-        <item>@drawable/bg_artikel</item>
-        <item>@drawable/artikel_1</item>
-        <item>@drawable/bg_artikel</item>
-        <item>@drawable/artikel_1</item>
-        <item>@drawable/bg_artikel</item>
-        <item>@drawable/artikel_1</item>
-        <item>@drawable/bg_artikel</item>
+        <item>@drawable/ic_morning</item>
+        <item>@drawable/rapip</item>
+        <item>@drawable/bulanramadhan</item>
+        <item>@drawable/perangbadar</item>
+        <item>@drawable/ayub</item>
+        <item>@drawable/nguap</item>
+        <item>@drawable/tawaf</item>
     </string-array>
 
     <string-array name="arr_title_artikel">
         <item>Sedekah Adalah Bukti Keimanan</item>
-        <item>Artikel 2 Artikel Artikel Artikel Artikel Artikel</item>
-        <item>Artikel 3 Artikel Artikel Artikel Artikel Artikel</item>
-        <item>Artikel 4 Artikel Artikel Artikel Artikel Artikel</item>
-        <item>Artikel 5 Artikel Artikel Artikel Artikel Artikel</item>
-        <item>Artikel 6 Artikel Artikel Artikel Artikel Artikel</item>
-        <item>Artikel 7 Artikel Artikel Artikel Artikel Artikel</item>
-        <item>Artikel 8 Artikel Artikel Artikel Artikel Artikel</item>
+        <item>Manfaat Dzikir Pagi</item>
+        <item>Kajian Bersama Rapip</item>
+        <item>Sunnah Sunnah Ramadhan</item>
+        <item>Kisah Perang Badar</item>
+        <item>Murrotal Juz 29 Ayyub</item>
+        <item>Adab Menguap</item>
+        <item>Doa Ketika Tawwaf</item>
     </string-array>
 
     <string-array name="arr_desc_artikel">
         <item>Salah satu cara kita mengetahui kadar keimanan kita adalah dengan melihat apakah kita suka bersedekah atau tidak. Bersedekah tidak harus banyak dan tidak harus dengan uang, sehingga tidak kaya atau tidak punya uang bukanlah menjadi alasan kita untuk tidak bersedekah. Bersedekah dengan uang Rp 10.000, Rp 20.000, atau Rp 50.000 itu sudah cukup. Atau bersedekah dengan beras yang kita miliki sebanyak satu kilo atau dua kilo, ini pun sudah cukup. Sedekah adalah bukti keimanan. Bukti keimanan kita terhadap hari akhir, bahwasanya kelak di hari kiamat kita akan mendapat balasan pahala dari Allah, meskipun di dunia kita tidak mendapatkan apa-apa. Kita lelah bekerja mencari uang dan harta, lalu uang tersebut kita berikan tanpa kompensasi dan kita hanya berharap balasan di hari kiamat kelak.</item>
-        <item>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry\'s standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.</item>
-        <item>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry\'s standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.</item>
-        <item>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry\'s standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.</item>
-        <item>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry\'s standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.</item>
-        <item>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry\'s standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.</item>
-        <item>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry\'s standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.</item>
-        <item>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry\'s standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum. Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry\'s standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry\'s standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.</item>
+        <item>1. Mendapat Kasih Sayang Allah
+
+“Dan bertasbihlah kepada-Nya diwaktu pagi dan sore, Dialah yang memberi rahmat kepadamu dan malaikat-Nya (memohonkan ampunan untukmu), supaya Dia mengeluarkan kamu dari kegelapan kepada cahaya (yang terang). Dan adalah Dia Maha Penyayang kepada orang-orang yang beriman” (QS. Al-Ahzab: 42-43).
+
+Orang yang berdzikir diibaratkan seperti orang yang mencintai Allah karena selalu mengingatNya dalam keadaan dan aktifitas apapun yakni dengan melakukan keutamaan dzikir pagi dan petang, tentunya setiap kebaikan yang dilakukan seorang hamba akan mendapat kebaikan berlipat dari Allah ya sobat, maka Allah akan memberi kasih sayangNya pada hamba tersebut melebihi apa yang bisa dibayangkan dan dipikirkan.
+
+2. Mendapat Ampunan Dosa
+
+
+“Maka bersabarlah kamu, karena sesungguhnya janji Allah itu benar, dan mohonlah ampunan untuk dosamu dan bertasbihlah seraya memuji Tuhanmu pada waktu sore dan pagi” (QS. Ghafir: 55). Dzikir tentunya beragam dan diantaranya ada yang berupa permohonan ampun seperti “astagfirullah” yang merupakan zikir harian Nabi Muhammad SAW yang bisa sobat ucapkan kapanpun, dengan membaca dzikir tersebut akan menghapus dosa dosa sekaligus mendapat pahala.
+
+3. Mendapat Anugrah Rasa Sabar
+
+“Maka bersabarlah kamu terhadap apa yang mereka katakan dan bertasbihlah sambil memuji Tuhanmu sebelum terbit matahari dan sebelum terbenam(nya)” (QS. Qaf: 39). Jika mengingat Allah dengan berdzikir, tentu hati dan jiwa akan menjadi lebih sabar ya sobat, sebab selalu mengingat bahwa segala ketentuan datangnya dari Allah, beda dengan orang yang lalai mengingat Allah, di hatinya akan terasa tidak tenang dan jauh dari damai.
+
+4. Selalu Mengingat dan Diingat Allah
+
+“Perumpamaan orang yang ingat akan Rabb-nya dengan orang yang tidak ingat Rabb-nya laksana orang yang hidup dengan orang yang mati.” (HR. Al-Bukhari dalam Fat-bul Baari XI/208 no. 6407). Jelas ya sobat, bahwa dzikir ialah suatu pertanda bahwa sedang mengingat Allah, Allah pun akan mengingat hambaNya tersebut, dengan demikian segala yang dilakukan akan mendapat keberkahan dan memiliki hati yang hidup karena dipenuhi asma Allah.
+
+5. Amalan yang Disukai Rasulullah
+
+“Dan aku duduk bersama orang-orang yang berdzikrullah mulai dari (waktu) sholat Ashar sampai terbenam matahari lebih aku cintai daripada memerdekakan empat orang budak” (HR. Abu Dawud: 3667). Barang siapa yang mengerjakan amalan yang dianjurkan Rasulullah ialah sebagai wujud bahwa orang tersebut mengikuti apa yang diajarkan dan wujud muslim sejati sehingga benar benar menunjukkan identitasnya sebagai seorang muslim.
+
+6. Amalan Paling Baik di Mata Allah
+
+“Maukah kamu aku tunjukkan perbuatanmu yang terbaik, paling suci di sisi Raja-mu (Allah), dan paling mengangkat derajatmu; lebih baik bagimu dari infak emas atau perak, Para Sahabat yang hadir berkata: “Mau (wahai Rasulullah)!” Beliau bersabda: “Dzikir kepada Allah Yang Mahatinggi.” (HR. At-Tirmidzi no. 3377).
+
+Dalam islam tentunya banyak amalan yang mendatangkan pahala ya sobat, ternyata yang menjadi salah satu amalan tertinggi di mata Allah adalah berdzikir, tentunya hal ini tidak boleh dilewatkan begitu saja dimana amaalan dzikir ini ialah sesuatu yang mudah dan tak perlu dengan modal apapun, cukup menyebut dan mendalami bacaan dzikir yang diucapkan.
+
+7. Memberi Rasa Tenang
+
+“…Ingatlah, hanya dengan mengingati Allah-lah hati menjadi tenang.” (QS. Ar-Ra’d: 28). Pencipta jiwa setiap manusia tentunya adalah Allah, dalam jiwa tersebut akan ada ketenangan jika selalu diisi dengan kebaikan dan mengingat Allah, salah satunya dengan dzikir ya sobat, hati dan jiwa tennag jelas akan sobat dapatkan.
+
+8. Pahala Seperti Haji dan Umrah
+
+“Barangsiapa yang mengerjakan shalat shubuh dengan berjama’ah di masjid, lalu dia tetap berdiam di masjid sampai melaksanakan shalat sunnah Dhuha, maka ia seperti mendapat pahala orang yang berhaji atau berumroh secara sempurna.” (HR. Thobroni). Luar biasa ya sobat pahala yang didapat? tentunya semua itu bisa didapat dengan perbuatan yang ikhlas disertai dengan amalan kebaikan lainnya.
+
+9. Jika Meninggal akan Masuk Surga
+
+“Ya Allah, Engkau adalah Rabbku, tidak ada ilah yang berhak disembah kecuali Engkau, Engkaulah yang menciptakanku. Aku adalah hambaMu. Aku akan setia pada perjanjianku pada-Mu (yaitu menjalankan ketaatan dan menjauhi larangan, pen) semampuku dan aku yakin akan janji-Mu (berupa pahala). Aku berlindung kepada-Mu dari kejelekan yang kuperbuat. Aku mengakui nikmat-Mu kepadaku dan aku mengakui dosaku. Oleh karena itu, ampunilah aku. Sesungguhnya tiada yang mengampuni dosa kecuali Engkau.”  (Dibaca 1 x)
+
+Dari Syaddad bin Aus radhiyallahu ‘anhu, ia berkata bahwa Rasulullah shallallahu ‘alaihi wa sallam bersabda, “Barangsiapa mengucapkan dzikir ini di siang hari dalam keadaan penuh keyakinan, lalu ia mati pada hari tersebut sebelum sore hari, maka ia termasuk penghuni surga. Dan barangsiapa yang mengucapkannya di malam hari dalam keadaan penuh keyakinan, lalu ia mati sebelum shubuh, maka ia termasuk penghuni surga.” (HR. Bukhari (7/150, no. 6306)).
+
+
+Nah sobat, bagi yang mengucapkan bacaan dzikir tersebut dengan penuh keikhlasan, jika ia meninggal akan mendapat pahala berupa masuk surga, tentunya jika diucapkan dengan penghayatan dan disertai dengan tingkah laku kebaikan di hari hari semasa ia hidup ya sobat. Surga memang incaran semua umat muslim, tak ada salahnya mencoba melakukan apapun yang terbaik untuk mendapatkannya ya sobat.
+
+10. Mendapat Syafaat di Hari Kiamat
+
+“Barangsiapa yang mengucapkan kalimat ‘subhanallah wa bi hamdih’ di pagi dan sore hari sebanyak 100 x, maka tidak ada yang datang pada hari kiamat yang lebih baik dari yang ia lakukan kecuali orang yang mengucapkan semisal atau lebih dari itu.” (HR. Muslim (4/2071, no. 2692)). Jelas dari hadist tersebut ya sobat, syafaat akan didapatkan jika mengucap dzikir tersebut secara rutin dan ikhlas.
+
+11. Terlindung dari Bahaya
+
+“Aku berlindung dengan kalimat-kalimat Allah yang sempurna dari kejahatan makhluk yang diciptakanNya.” (Dibaca 3 x pada petang hari). Dalam hadits Abu Hurairah radhiyallahu ‘anhu disebutkan bahwa barangsiapa yang mengucapkan dzikir ini di sore hari sebanyak tiga kali, maka ia tidak akan mendapat bahaya racun di malam tersebut. (HR. Ahmad 2/290). Dalam kehidupan sehari hari tentu ada banyak kemungkinan bahaya ya sobat, dan sobat bisa tercegah dari bahaya dengan membaca dzikir tersebut.
+
+12. Upaya Memohon Perlindungan
+
+Dzikir dan selalu menyebut asma Allah tentunya sama dengan memohon perlindungan kepada Allah ya sobat, dimana dari sekian banyak dzikir tentunya ada yang bermakna memohon perlindungan seperti “laa hawla quwwata illa billah”, sobat bisa mengamalkannya dan membuktikan langsung manfaat yang didapat.
+
+13. Jauh dari Dosa
+
+Dengan mengingat Alah terus menerus dengan jalan dzikir, secara langsung akan mencegah dari dosa dan maksiat sebab selalu ingat bahwa Allah ada dan melihat apa saja yang hambaNya kerjakan, dengan demikian, sobat akan berfikir berulang ulang sebelum berbuat dosa hingga akhirnya tidak melakukan dosa tersebut karena dekatnya hati sobat dengan Allah.
+
+14. Menambah Rasa Khusyu’ dalam Beribadah
+
+Dzikir tentu akan menambah rasa khyusu’ dalam beribadah lain misalnya ketika shalat ya sobat, sebab selalu bersyukur mendapat kesempatan untuk bisa beribadah dan mencari jalan mendekat pada Allah.
+
+15. Mengingat akan Kehidupan Setelah Kematian
+
+Dzikir juga akan mengingatkan sobat akan kematian, dimana hal tersebut ialah perbuatan yang dianjurkan agar jauh dari dosa, tentunya hal ini karena selalu mengingat Allah dan dosa dosa ya sobat, sehingga selalu takut untuk berbuat dosa karena ingat kematian bisa datang kapan saja.
+
+Demikian yang dapat disampaikan penulis, semoga menjadi wawasan bermanfaat dan pengetahuan islami yang berkah serta dapat diterapkan dalam rutinitas sehari hari sobat. Terima kasih. Wassalamualaikum wr wb.</item>
+        <item>Mari mengaji bersama ustad Rapip, Spd,i Lc SSMM BBA ditanggal 20 November 2022 di masjid raya IDN pukul 12.00 bertema tentang cara membuat video estetik menggunakan figma dan juga cara mempotret view dengan benar dan rapi menggunakan camera laptop dan juga mengedit foto dengan menggunakan corel draw</item>
+        <item>MUI telah menetapkan jatuhnya bulan ramadhan di tahun 2022. Ramadhan akan jatuh ditanggal 2 April 2022. Bagi kalian yang mau panen pahala, berikut adalah sunnah sunnah bulan ramadhan. [1] Mengakhirkan Sahur
+Nabi kita shallallahu ‘alaihi wa sallam telah memerintahkan dan menganjurkan kepada orang yang hendak berpuasa agar makan sahur. Beliau shallallahu ‘alaihi wa sallam bersabda,
+
+مَنْ أَرَادَ أَنْ يَصُومَ فَلْيَتَسَحَّرْ بِشَىْءٍ
+
+“Barangsiapa ingin berpuasa, maka hendaklah dia bersahur.” (HR. Ahmad. Dikatakan shohih oleh Syaikh Al Albani karena memiliki banyak syawahid. Lihat Shohihul Jami’)
+
+Nabi kita shallallahu ‘alaihi wa sallam menganjurkan demikian karena di dalam sahur terdapat keberkahan. Dari pembantu Rasulullah shallallahu ‘alaihi wa sallam –Anas bin Malik radhiyallahu ‘anhu– berkata bahwa Rasulullah shallallahu ‘alaihi wa sallam bersabda,
+
+تَسَحَّرُوا فَإِنَّ فِى السَّحُورِ بَرَكَةً
+
+“Makan sahurlah karena sesungguhnya pada sahur itu terdapat berkah.” (HR. Bukhari dan Muslim)
+
+Keberkahan yang dimaksudkan di sini di antaranya adalah dengan makan sahur seseorang akan menjadi kuat berpuasa mulai dari terbit fajar hingga matahari tenggelam. (Lihat Syarh Riyadhus Sholihin, 3/451, Darul Kutub Al ‘Ilmiyah)
+
+Barokah lain juga adalah sebagai pembeda antara puasa Yahudi-Nashrani (Ahlul Kitab) dengan umat ini. Dari Amr bin ‘Ash radhiyallahu ‘anhu, Rasulullah shallallahu ‘alaihi wa sallam bersabda,
+
+فَصْلُ مَا بَيْنَ صِيَامِنَا وَصِيَامِ أَهْلِ الْكِتَابِ أَكْلَةُ السَّحَرِ
+
+“Perbedaan antara puasa kita (umat Islam) dan puasa ahlul kitab terletak pada makan sahur.” (HR. Muslim). Orang ahli kitab ketika berpuasa, mereka makan sahur sebelum pertengahan malam dan mereka tidak makan sahur sama sekali. Kaum muslimin diberi keutamaan dalam berpuasa yaitu diberi kemudahan untuk makan sahur.
+
+Rasulullah shallallahu ‘alaihi wa sallam juga melarang untuk meninggalkan sahur, di mana beliau shallallahu ‘alaihi wa sallam bersabda,
+
+السَّحُورُ أَكْلُهُ بَرَكَةٌ فَلاَ تَدَعُوهُ وَلَوْ أَنْ يَجْرَعَ أَحَدُكُمْ جَرْعَةً مِنْ مَاءٍ فَإِنَّ اللَّهَ عَزَّ وَجَلَّ وَمَلاَئِكَتَهُ يُصَلُّونَ عَلَى المُتَسَحِّرِينَ
+
+“Sahur adalah makanan yang penuh berkah. Oleh karena itu, janganlah kalian meninggalkannya sekalipun hanya dengan minum seteguk air. Karena sesungguhnya Allah dan para malaikat bershalawat kepada orang-orang yang makan sahur.” (HR. Ahmad. Dikatakan hasan oleh Syaikh Al Albani dalam Shohihul Jami’)
+
+Dan sangat dianjurkan untuk mengakhirkan waktu sahur hingga menjelang fajar. Hal ini dapat dilihat dalam hadits Anas dari Zaid bin Tsabit bahwasanya beliau pernah makan sahur bersama Nabi shallallahu ‘alaihi wa sallam, kemudian beliau shallallahu ‘alaihi wa sallam berdiri untuk menunaikan shalat. Kemudian Anas berkata,”Berapa lama jarak antara adzan dan sahur kalian?” Kemudian Zaid berkata,”Sekitar 50 ayat”. (HR. Bukhari dan Muslim)
+
+[2] Menyegerakan berbuka
+Menyegerakan berbuka akan mendatangkan kebaikan. Rasulullah shallallahu ‘alaihi wa sallam bersabda,
+
+لاَ يَزَالُ النَّاسُ بِخَيْرٍ مَا عَجَّلُوا الْفِطْرَ
+
+“Manusia akan senantiasa berada dalam kebaikan selama mereka menyegerakan berbuka.” (HR. Bukhari dan Muslim)
+
+Menyegerakan berbuka juga berarti seseorang konsisten dalam menjalankan sunnah Nabinya shallallahu ‘alaihi wa sallam. Rasulullah shallallahu ‘alaihi wa sallam bersabda,
+
+لَا تَزَالُ أُمَّتِى عَلَى سُنَّتِى مَا لَمْ تَنْتَظِرْ بِفِطْرِهَا النُجُوْمَ
+
+“Umatku akan senantiasa berada di atas sunnahku selama tidak menunggu munculnya bintang untuk berbuka puasa.” (HR. Ibnu Hibban dan Ibnu Khuzaimah. Dikatakan shohih oleh Syaikh Al Albani dalam Shohih Targib wa Tarhib). Dan inilah yang ditiru oleh Syi’ah Rafidhah, mereka meniru Yahudi dan Nashrani dalam berbuka puasa yaitu baru berbuka ketika munculnya bintang. Semoga Allah melindungi kita dari kesesatan mereka. (Lihat Shifat Shoum Nabi, hal. 63)
+
+Nabi kita shallallahu ‘alaihi wa sallam biasa berbuka puasa sebelum menunaikan shalat maghrib dan bukanlah menunggu hingga shalat maghrib selesai dikerjakan. Inilah contoh dan akhlaq dari suri tauladan kita shallallahu ‘alaihi wa sallam. Sebagaimana Anas bin Malik radhiyallahu ‘anhu berkata,
+
+كَانَ رَسُولُ اللَّهِ -صلى الله عليه وسلم- يُفْطِرُ عَلَى رُطَبَاتٍ قَبْلَ أَنْ يُصَلِّىَ فَإِنْ لَمْ تَكُنْ رُطَبَاتٌ فَعَلَى تَمَرَاتٍ فَإِنْ لَمْ تَكُنْ حَسَا حَسَوَاتٍ مِنْ مَاءٍ
+
+“Rasulullah shallallahu ‘alaihi wa sallam biasanya berbuka dengan rothb (kurma basah) sebelum menunaikan shalat. Jika tidak ada rothb, maka beliau berbuka dengan tamr (kurma kering). Dan jika tidak ada yang demikian beliau berbuka dengan meminum air putih.” (HR. Abu Daud, dikatakan hasan shohih oleh Syaikh Al Albani dalam Shohih wa Dho’if Sunan Abu Daud). Hadits ini menunjukkan bahwa ketika berbuka dianjurkan berbuka dengan kurma (rothb atau tamr) sebagaimana yang beliau shallallahu ‘alaihi wa sallam lakukan.
+
+[3] Berdo’a ketika berbuka
+Perlu diketahui bersama bahwa do’a ketika berbuka adalah salah satu do’a yang mustajab dan tidak akan ditolak. Maka berdo’alah dengan penuh keyakinan bahwa do’amu akan dikabulkan. Nabi shallallahu ‘alaihi wa sallam bersabda,
+
+ثَلاَثَةٌ لاَ تُرَدُّ دَعْوَتُهُمُ الإِمَامُ الْعَادِلُ وَالصَّائِمُ حِينَ يُفْطِرُ وَدَعْوَةُ الْمَظْلُومِ
+
+“Ada tiga orang yang do’anya tidak ditolak : [1] Pemimpin yang adil, [2] Orang yang berpuasa ketika dia berbuka, [3] Do’a orang yang terdzolimi.” (HR. Tirmidzi, Ibnu Hibban, dan Ibnu Majah. Dikatakan shohih oleh Syaikh Al Albani dalam Shohih wa Dho’if Sunan Tirmidzi)
+
+Do’a ketika berbuka adalah sebagaimana hadits yang diriwayatkan oleh Ibnu Umar radhiyallahu ‘anhuma bahwa dulu Rasulullah shallallahu ‘alaihi wa sallam ketika berbuka beliau membaca :
+
+ذَهَبَ الظَّمَأُ وَابْتَلَّتِ الْعُرُوقُ وَثَبَتَ الأَجْرُ إِنْ شَاءَ اللَّهُ
+
+“Dzahabadh dhoma’u wabtallatil ‘uruqu wa tsabatal ajru insya Allah (artinya: Rasa haus telah hilang dan urat-urat telah basah, dan pahala telah ditetapkan insya Allah)” (HR. Abu Daud. Dikatakan hasan oleh Syaikh Al Albani dalam Shohih wa Dho’if Sunan Abi Daud)
+
+[4] Memberi makan orang berbuka
+Para pembaca sekalian, beri makanlah kepada orang yang berpuasa karena ini akan mendatangkan pahala dan kebaikan yang melimpah ruah. Lihatlah apa yang Rasulullah shallallahu ‘alaihi wa sallam sabdakan,
+
+مَنْ فَطَّرَ صَائِمًا كَانَ لَهُ مِثْلُ أَجْرِهِ غَيْرَ أَنَّهُ لاَ يَنْقُصُ مِنْ أَجْرِ الصَّائِمِ شَيْئًا
+
+“Siapa memberi makan orang yang berpuasa, maka baginya pahala seperti orang yang berpuasa tersebut, tanpa mengurangi pahala orang yang berpuasa itu sedikit pun juga.” (HR. Tirmidzi dan dikatakan shohih oleh Syaikh Al Albani dalam Shohih wa Dho’if Sunan Tirmidzi)
+
+[5] Memperbanyak ibadah di bulan Ramadhan
+Di antara petunjuk Nabi shallallahu ‘alaihi wa sallam adalah memperbanyak berbagai macam ibadah di bulan Ramadhan. Jibril ‘alaihis sallam biasa membacakan Al Qur’an kepada beliau shallallahu ‘alaihi wa sallam di bulan Ramadhan. Dan apabila Jibril menemui Nabi shallallahu ‘alaihi wa sallam, terlihat bahwa beliau shallallahu ‘alaihi wa sallam adalah orang yang paling suka memberi bagaikan hembusan angin. Beliau shallallahu ‘alaihi wa sallam adalah sebaik-baik manusia yang paling banyak bersedekah, berbuat ihsan (kebaikan), membaca Al Qur’an, shalat, dzikir dan i’tikaf. (Zadul Ma’ad, II/29, Ibnul Qayyim, , Mawqi’ul Islam-Maktabah Syamilah)
+
+Alhamdulillahilladzi bi ni’matihi tatimmush sholihaat, wa shallallahu ‘ala nabiyyina Muhammad wa ‘ala alihi wa shohbihi wa sallam.
+
+
+
+</item>
+        <item>Ketika Rasulullah Shallallahu ‘alaihi wa sallam dan pasukannya sampai di dekat Safra` (suatu daerah di dekat Badar); beliau mengutus Basbas dan Ady bin Abi Zaghba` ke Badar. Keduanya disuruh mencari informasi tentang Abu Sufyan dan rombongan dagangnya.[1] Dalam riwayat lainnya disebutkan bahwa beliau Shallallahu ‘alaihi wa sallam dan Abu Bakar Radhiyallahu anhu juga keluar untuk tujuan ini. Keduanya bertemu dengan seseorang yang sudah tua. Rasulullah bertanya kepadanya tentang pasukan Quraisy. Orang tua itu mau menjawab asalkan mereka berdua memberitahu dari mana asal mereka ? Keduanya setuju. Rasulullah Shallallahu ‘alaihi wa sallam memintanya agar bercerita lebih dahulu. Orang itu menjelaskan bahwa ia mendengar berita tentang Muhammad Shallallahu ‘alaihi wa sallam dan para Sahabatnya telah berangkat pada hari ini dan ini. Jika si pembawa berita itu benar, berarti mereka sekarang sudah sampai di tempat ini dan ini. Dan jika si pembawa berita tentang pasukan Quraisy juga jujur, berarti mereka sekarang berada di tempat ini dan ini.
+
+Setelah menyelesaikan ceritanya, orang itu bertanya: “Dari mana kalian berdua ?” Rasulullah Shallallahu ‘alaihi wa sallam menjawab: “Kami berasal dari air”.  Kemudian keduanya meninggalkan orang tua itu yang masih bertanya : “Dari air ? Apakah dari air Irak ?”[2]
+
+Sore harinya, Nabi Shallallahu ‘alaihi wa sallam mengutus Ali, Zubair, dan Sa`d Bin Abi Waqqash Radhiyallahu anhum beserta sekelompok Sahabat lainnya untuk mengumpulkan data-data tentang musuh. Di sekitar sumur Badar, rombongan ini menemukan dua orang yang bertugas mengambil air untuk pasukan Mekah. Mereka membawa dua orang ini ke Rasulullah Shallallahu ‘alaihi wa sallam yang saat itu sedang shalat. Lantas mereka mulai mengorek keterangan dari keduanya. Dua orang ini mengakui bahwa mereka pemberi minum pada pasukan Mekah. Namun, para Sahabat tidak mempercayai mereka. Para Sahabat mengira keduanya adalah anak buah Abu Sufyan. Lalu mereka memukuli keduanya hingga mau mengaku bahwa mereka anak buah Abu Sufyan.
+
+Ketika Rasulullah Shallallahu ‘alaihi wa sallam selesai shalat, beliau Shallallahu ‘alaihi wa sallam mengingatkan para Sahabatnya, karena mereka telah memukul keduanya saat jujur dan membiarkan mereka saat berdusta. Kemudian Rasulullah Shallallahu ‘alaihi wa sallam bertanya kepada keduanya tentang posisi pasukan Mekah. Mereka menjawab: “Mereka di belakang bukit di Udwatul Qushwa.”
+
+Kemudian beliau bertanya tentang jumlah pasukan Mekah. Akan tetapi, dua orang ini tidak bisa menyebutkan jumlah pastinya, namun keduanya menyebutkan jumlah unta yang mereka sembelih setiap harinya, yaitu antara 9 sampai 10. Dari sini, Rasulullah Shallallahu ‘alaihi wa sallam menyimpulkan bahwa jumlah mereka antara 900 – 1000 pasukan. Dua orang ini juga menyebutkan bahwa di antara pasukan itu ada beberapa tokoh Mekah.[3] Dalam kitab Rahîqul Makhtûm disebutkan, Beliau bertanya dua orang ini, “Siapa sajakah pemuka Quraisy yang ikut?” Mereka menjawab, “Utbah dan Syaibah, keduanya anak Rabî`ah, Abul Bakhtari bin Hisyâm, Hakim bin Hizâm, Naufal bin Khuwailid, al-Hârits bin Amir, Thaîmah bin Adi, an-Nadhr bin  Harits, Zam`ah bin al-Aswad, Abu Jahl bin Hisyam, Umayah bin Khalaf dan lainnya.” Rasulullah Shallallahu ‘alaihi wa sallam pun berkata kepada para Sahabatnya: “Mekah telah mencampakkan para tokohnya ke hadapan kalian.”[4] Lalu Beliau Shallallahu ‘alaihi wa sallam menunjukkan beberapa tempat yang akan menjadi tempat tewasnya beberapa tokoh Quraisy.
+
+
+Malam itu Allah Azza wa Jalla menurunkan hujan untuk mensucikan kaum Muslimin dan meneguhkan telapak kaki mereka di atas bumi. Allah Azza wa Jalla jadikan hujan tersebut sebagai bencana yang besar bagi kaum Musyrikin.[5] Tentang ini Allah Azza wa Jalla berfirman :
+
+وَيُنَزِّلُ عَلَيْكُمْ مِنَ السَّمَاءِ مَاءً لِيُطَهِّرَكُمْ بِهِ وَيُذْهِبَ عَنْكُمْ رِجْزَ الشَّيْطَانِ وَلِيَرْبِطَ عَلَىٰ قُلُوبِكُمْ وَيُثَبِّتَ بِهِ الْأَقْدَامَ
+
+Dan Allah menurunkan kepadamu hujan dari langit untuk mensucikan kamu dengan hujan itu dan menghilangkan dari kamu gangguan-gangguan setan dan untuk menguatkan hatimu dan memperteguh dengannya telapak kaki(mu) [al-Anfâl/8:11]
+
+Di antara nikmat Allah Azza wa Jalla kepada kaum Muslimin saat itu adalah Allah Azza wa Jalla menjadikan para Sahabat mengantuk sebagai penenteram jiwa.
+
+Rasulullah Shallallahu ‘alaihi wa sallam membawa pasukannya mendekati mata air Badar mendahului orang-orang Musyrik agar musuh tidak bisa menguasai mata air. Saat Rasulullah Shallallahu ‘alaihi wa sallam sudah menentukan satu posisi, al-Habâb bin Mundzir Radhiyallahu anhu mengeluarkan pendapatnya, “Wahai Rasulullah Shallallahu ‘alaihi wa sallam , bagaimanakah pendapat anda tentang posisi ini ? Apakah posisi ini diwahyukan oleh Allah Azza wa Jalla sehingga kita tidak boleh maju atau mundur ? Ataukah ini hanya pendapat, siasat dan takti perang saja”? Beliau menjawab: “Ini hanya pendapat, siasat dan taktik perang saja.” al-Habâb Radhiyallahu anhu mengatakan : “Wahai Rasulullah, posisi ini kurang tepat, bawalah orang-orang ini ke sumur yang paling dekat dengan posisi musuh. kita kuasai sumur itu lalu yang lainnya kita rusak. Kita membuat telaga besar lalu kita penuhi air. Kemudian baru kita perangi mereka, kita bisa minum sementara mereka tidak bisa.” Rasulullah Shallallahu ‘alaihi wa sallam bersabda kepada al-Habâb Radhiyallahu anhu , “Engkau telah menyampaikan pendapat yang jitu.” Rasulullah Shallallahu ‘alaihi wa sallam menyetujuinya dan melakukannya.[6]
+
+Ketika sudah menguasai tempat yang ditunjukkan oleh al-Habbab, Rasulullah Shallallahu ‘alaihi wa sallam dibuatkan `arisy (tenda)[7]  oleh para Sahabat sebagai tempat beliau Shallallahu ‘alaihi wa sallam bermunajat kepada Allah Azza wa Jalla dan memantau jalannya peperangan.
+
+Dari beberapa nash tentang perang Badar dapat dipahami bahwa Rasulullah Shallallahu ‘alaihi wa sallam ikut serta dalam perang. Beliau tidak terus-menerus di dalam tendanya atau tidak terus-menerus berdoa. Di antara kisah yang membuktikannya adalah ucapan Ali Radhiyallahu anhu , “Aku memperhatikan diri kami pada saat Badar. Saat itu, kami berlindung dengan Rasulullah Shallallahu ‘alaihi wa sallam . Beliau adalah orang yang paling dekat dengan musuh dan orang yang paling susah.”[8] Dalam  riwayat lain diceritakan, “Ketika peperangan sudah berkecamuk, kami berlindung dengan Rasulullah Shallallahu ‘alaihi wa sallam . Beliau adalah orang yang paling menderita. Tidak ada seorang  pun yang lebih dekat posisinya dengan orang Musyrik dibandingkan Rasulullah Shallallahu ‘alaihi wa sallam ”
+
+Di antara buktinya juga, sabda beliau Shallallahu ‘alaihi wa sallam kepada para Sahabatnya saat perang Badar, “Janganlah sekali-kali ada salah seorang di antara kalian yang maju kepada sesuatu, sampai aku berada di dekat sesuatu itu.”[9] Ibnu Katsîr [10] mengatakan, “Sungguh beliau telah berperang dengan sungguh-sungguh. Demikian pula Abu Bakar Radhiyallahu anhu . Sebagaimana keduanya berjihad di tenda dengan berdo’a, mereka juga keluar, memberikan motivasi untuk berperang dan mereka juga ikut berperang dengan fisik.”
+
+        </item>
+        <item>
+            https://youtu.be/xGFcDGoENPo?feature=shared
+        </item>
+        <item>
+            Tutup mulut\n
+“Jika ada di antara kamu menguap, hendaklah ia menutup mulutnya dengan tangan, sebab syaitan akan masuk (jika tidak ditutup).” (Hadith riwayat Muslim)\n
+
+Tidak bunyi suara\n
+“Apabila ada antara kamu yang menguap, tahanlah dengan sedaya upaya mungkin kerana apabila seseorang menguap sambil berbunyi, ‘hah!’ maka syaitan akan mentertawakannya.” (Hadith riwayat al-Bukhari)\n
+
+            “Apabila salah seorang daripada kalian menguap dalam solatnya, hendaklah dia berusaha menahan menguap dia itu seboleh yang mungkin kerana syaitan akan masuk (mulut yang terbuka).” (Hadith riwayat Muslim daripada Abu Sa’id)\n
+
+Menguap boleh menyebabkan solat kita tidak sah. Misalnya ketika kita membaca rukun qauli dalam keadaan menguap.
+
+Hendaklah ketika menguap berhentikan dulu bacaan, sunat menutup mulut dengan belakang tapak tangan kiri dan meneruskan bacaan.
+
+Moga perkongsian ini berguna, dan jika ada sebarang penambahan atau pembetulan, sangat dialu-alukan. Betulkan biasa, biasakan yang betul. Terima kasih.
+</item>
+        <item>
+            Doa ketika thawaf \n
+Doa umroh ketika thawaf berbeda-beda sesuai dengan putarannya. Berikut bacaan umroh saat thawaf mulai dari putaran pertama hingga putaran ketujuh:\n
+
+a. Doa putaran ke 1 dibaca, mulai dari Hajar Aswad sampai Rukun Yamani:\n
+            Subhanallahi wal-hamdu lillahi wa la ilaha illallahu wallahu akbar, wa la haula wa la quwwata illa billahil – aliyyil – azim, was salatu – was –salamu ‘ala rasulillahi sallallahu ‘alaihi wa sallam. Allahumma imanan bika wa tasdiqan bikitabika wa wafa’an bi ‘ahdika wattiba’an lisunnatika nabiyyika muhammadin sallallahu ‘alaihi wa sallam. Allahumma inni as’ alukal – ‘afwa wal-‘afiyatawal-mu’afatad-da’imata fid-dini wad-dun-ya wal-akhirah, wal- fauza bil-jannati wan-najata minan-nar.\n
+            b. Doa putaran ke 2 dibaca mulai dari Hajar Aswad sampai Rukun Yamani:\n
+            Allahumma inna hazal-baita baituka wal-harama, haramuka wal-amna amnuka wal-‘abda ‘abduka wa ana ‘abduka wabnu ‘abdika wa haza maqamul- a’izi bika minan-nari faharrim luhumana wa basya-ratana ‘alan-nar. Allahumma habbib ilainal-imana wa zayyinhu fi qulubina wa karrih ilainal-kufra wal-fusuqa wal-isyan, waj ‘alna minar- rasyidin. Allahumma qini azabaka yauma tab’asu ibadak. Allahum marzuqniyal-jannata biqairi hisab.\n
+            c. Bacaan Putaran ke 3:\n
+            Allahumma inni a’uzu bika minasy-syakki wasy-syirki wasy-syoqaqi wan-nifaqi wa su’il akhlaqi wa su’il-manzari wal-munqa labi fil mali wal-ahli wal-walad. Allahumma inni as’aluka ridaka wal-jannah, wa a’uzu bika min sakhatika wan nar. Allahumma inni a’uzu buka min fitnatil – qabri wa a’izi bika min fitnatil mahya wal-mamat.\n
+
+
+
+
+        </item>
     </string-array>
 
     <string-array name="arr_dzikir_doa_harian">
